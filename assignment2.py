@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 
-import argparse
+"""
+OPS445 Assignment 2
+Temporary main file during development.
+Final code will be combined here before submission.
+"""
 
-'''
-Enter Your Code Here
-'''
+print("Project under development. Final version will be combined before submission.")
